@@ -11,4 +11,3 @@ class Assets {
   static const String marsXlogDecoderGuiImagesXlogDecoder = 'images/xlog-decoder.exe';
 
 }
-git push
